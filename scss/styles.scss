@@ -1,0 +1,10 @@
+#header{
+  display: flex;
+}
+@media (min-width: 576px) { #header{
+  width: 80%;
+  }
+  ul{
+    text-align: center;
+  }
+}
